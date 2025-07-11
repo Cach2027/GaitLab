@@ -20,6 +20,8 @@ Human gait is a complex and adaptive motor activity influenced by musculoskeleta
   - Expert-supervised adjustments for human-in-the-loop refinement
 - **Visualization tools**: confusion matrix, classification reports, reward plots
 
+![System Diagram](ProjectPicctures/system_diagram(1).png)
+
 ---
 
 ## 🏗 Architecture Overview
@@ -34,18 +36,8 @@ Human gait is a complex and adaptive motor activity influenced by musculoskeleta
 - **Reward System**:
   - +1 for correct recommendation
   - -0.1 for incorrect recommendation
-
----
-
-## 📊 Performance Summary
-
-- **Accuracy**: 87%
-- **Precision (weighted)**: 88%
-- **Recall (weighted)**: 87%
-- **F1 Score (weighted)**: 88%
-- Confusion matrix analysis showed low misclassification, mainly between “Improve posture” and “Rehabilitation exercises.”
-
----
+  - 
+![Architecture](ProjectPicctures/refr.png)
 
 
 ---
@@ -54,7 +46,6 @@ Human gait is a complex and adaptive motor activity influenced by musculoskeleta
 
 - Python 3.10+
 - Gymnasium
-- SimPy
 - Stable-Baselines3
 - Scikit-learn
 - Matplotlib / Seaborn
