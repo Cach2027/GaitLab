@@ -20,7 +20,7 @@ Human gait is a complex and adaptive motor activity influenced by musculoskeleta
   - Expert-supervised adjustments for human-in-the-loop refinement
 - **Visualization tools**: confusion matrix, classification reports, reward plots
 
-![System Diagram](ProjectPictures/system_diagram(1).png)
+![System Diagram](ProjectPictures/system_diagram.png)
 
 ---
 
