@@ -1,6 +1,12 @@
 # 🧠 GaitLabAgent
 
 **GaitLabAgent** is a simulation-based intelligent agent designed to replicate the core functions of a gait laboratory. Built with principles from **systems thinking**, **cybernetics**, and **reinforcement learning**, the agent provides personalized gait improvement recommendations based on biomechanical and contextual variables.
+## 📎 Documentation
+
+- 📄 [Final Paper (GaitLabAgent)](GaitLab_Final_Paper.pdf)
+- 📄 [Technical Report (Full Version)](Technical_Report_GaitLab.pdf)
+- 📄 [Poster PDF (Visual Summary)](GaitLab_poster.pdf)
+
 
 ---
 
